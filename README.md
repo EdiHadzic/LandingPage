@@ -1,9 +1,9 @@
 # Landing Page For Customers
 
-This is an example page that i created for my customers to see my work. it is using react, material ui, aos and css.\
-Fiverr: https://www.fiverr.com/edihadzic
-contact me: edi.hadzicpm@gmail.com
-Initial design by Ehsan Moin
+This is an example page that i created for my customers to see my work. it is using react, material ui, aos and css.<br>
+Fiverr: https://www.fiverr.com/edihadzic<br>
+contact me: edi.hadzicpm@gmail.com<br>
+Initial design by Ehsan Moin<br>
 
 
 # Live Page demo 
