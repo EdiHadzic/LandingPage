@@ -1,8 +1,8 @@
-# Live Page demo 
-
-#Landing page for customers
+# Landing Page For Customers
 
 This is an example page that i created for my customers to see it is using react, material ui, aos and css.
+
+# Live Page demo 
 
 https://landing-page-17dd4.web.app/
 
