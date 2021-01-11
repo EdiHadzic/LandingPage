@@ -3,7 +3,7 @@
 This is an example page that i created for my customers to see my work. it is using react, material ui, aos and css.\
 Fiverr: https://www.fiverr.com/edihadzic
 contact me: edi.hadzicpm@gmail.com
-Initial design by 
+Initial design by Ehsan Moin
 
 
 # Live Page demo 
