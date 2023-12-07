@@ -7,8 +7,7 @@ Initial design by Ehsan Moin<br>
 
 
 # Live Page demo 
-
-https://landing-page-17dd4.web.app/
+https://landing-page-git-master-edihadzics-projects.vercel.app/
 
 # Getting Started with Create React App
 
